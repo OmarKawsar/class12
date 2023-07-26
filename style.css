@@ -1,0 +1,15 @@
+h1{
+color: aqua;
+} 
+p{
+           background-color:darkgray;
+            color: darkgreen
+        } 
+        #p2{
+           background-color:cornsilk;
+            color: darkolivegreen
+        }
+        .class1 p{
+            background-color:darkolivegreen ;
+            color: cornsilk;
+        }
